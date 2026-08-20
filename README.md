@@ -506,6 +506,26 @@ Risk classification
 
 Business-oriented explanation
 
+
+
+\### Live Demo
+
+
+
+\[!\[Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20App-brightgreen)](https://loan-prediction-ml-as3u.onrender.com)
+
+
+
+\### Application Screenshot
+
+
+
+!\[Loan Prediction Web App](loan\_prediction\_demo.png)
+
+
+
+
+
 📊 Risk Classification
 
 
